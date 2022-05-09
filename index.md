@@ -23,6 +23,24 @@ iframe {
   height:480px;
 }
 
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+ tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #1d1c1d;
+  color: white;
+}
+
 </style>
 
 
@@ -47,6 +65,8 @@ iframe {
 -   Phone charger (we have solar battery banks)
     
 -   Medications, if needed
+
+-   Grooming items (tooth, hair bruch etc)
     
 -   Additional snacks they might want
     
@@ -95,42 +115,20 @@ Yes!! If you would like copies of pics of the trip give us a few days after we g
 ![enter image description here](https://images.unsplash.com/photo-1584068101781-525b00f449ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1452&q=80)
 
 
-
-
-
-🗓 **Day 1**
-
- - Breakfast: Gradola or BYO
-   
-  - Lunch: Sandwiches and Chips
-   
-  - Dinner: Bugers and hotdogs
-
-  
-
-🗓 **Day 2**
-
- - Breakfast: Breakfast Hash (potatoes, veggies [optional meat, eggs
-   cheese])
-   
-  - Lunch: Turkey wraps and fruit
-   
-   - Dinner: Campfire Grilled Tacos (options: steak, chicken, tofu)
-
-  
-
-🗓 **Day 3**
-
- - Breakfast: Breakfast burritos
-   
-  - Lunch: Sandwiches and Chips
+| 🗓 Day| #1 | #2 | #3 |
+|--|--| --| --|
+| **Breakfast** | Granola or BYO | Breakfast Hash (potatoes, veggies [optional meat, eggs, cheese]) | Breakfast burritos [optional meat, eggs, cheese]) |
+| **Lunch** | Sandwiches and chips | Turkey wraps and fruit| Sandwiches and chips|
+| **Dinner** | Bugers and hotdogs |Campfire Grilled Tacos (options: steak, chicken, tofu) | N/A |
 
  ---
 
 ## Rough Itinerary:
 *(We will update this more the closer we get to the trip)*
 
-![enter image description here](https://images.unsplash.com/photo-1517824806704-9040b037703b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
+
+![enter image description here](https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
+
 
 🗓  **Day 1**
 
@@ -151,7 +149,7 @@ Yes!! If you would like copies of pics of the trip give us a few days after we g
  -  10-11pm bedtime grooming & lights out
 
  
-  
+ ![enter image description here](https://images.unsplash.com/photo-1472745942893-4b9f730c7668?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80)  
 
 🗓  **Day 2**
 
@@ -172,7 +170,7 @@ Yes!! If you would like copies of pics of the trip give us a few days after we g
    
   - 11pm-12am bedtime grooming & lights out
 
-  
+  ![enter image description here](https://images.unsplash.com/photo-1517824806704-9040b037703b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
   
 
 🗓 **Day 3 (pack out)**
@@ -182,3 +180,5 @@ Yes!! If you would like copies of pics of the trip give us a few days after we g
 -   10am-11am pack up camp / clean up
    
 -   We can shuttle kiddos home in batches if you cant pick them up
+
+ ![enter image description here](https://images.unsplash.com/photo-1636193535246-a07cd0aa6fcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
