@@ -83,7 +83,7 @@ There are normal gender-separated bathroom facilities within a 5 min walk from c
 
 ***Is this co-ed?*** 👦 ⚡️ 👧
 
-Yes, there will be 2 large tents, one for boys and one for girls (spaced ~300 ft from each other) and I will be monitoring this so things are kept PG-rated at all times. We understand some parents still might not be in a place wherein they feel comfortable with this and that's totally cool, we get it, your kiddos are still invited todo join via day trips.
+Yes, there will be 2 large tents, one for boys and one for girls (spaced ~100 ft from each other) and I will be monitoring this so things are kept PG-rated at all times. We understand some parents still might not be in a place wherein they feel comfortable with this and that's totally cool, we get it, your kiddos are still invited todo join via day trips.
 
   
 
